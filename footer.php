@@ -18,8 +18,8 @@
 				        <div class="row">
 				            <div id="sp-footer1" class="col-sm-12 col-md-12">
 				                <div class="sp-column "><span class="sp-copyright">Bản quyền © 2019
-				                    <p><span style="font-size:15px; font-weight:bold">Ủy ban Văn hóa, Giáo dục, Thanh niên, Thiếu niên và Nhi đồng của Quốc hội</span>
-				                    <br/>Địa chỉ: 22 Hùng Vương, Ba Đình, Hà Nội</p>
+				                    <p><span style="font-size:15px; font-weight:bold">Trường Cao đẳng Công nghiệp Huế</span>
+				                    <br/>Địa chỉ: 70 Nguyễn Huệ, Huế</p>
 				                    <p><span style="font-size:15px; font-weight:bold">Bộ Lao động - Thương binh và Xã hội</span>
 				                        <br/>Địa chỉ: Số 2 Ngô Quyền, Hoàn Kiếm, Hà Nội</p>
 				                    </span>
