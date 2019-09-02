@@ -1,0 +1,118 @@
+.mainheading-wrapper h1 {
+    font-size: 34px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.mainheading-wrapper {
+	background-position: 50% 0;
+	position: relative;
+}
+.mainheading-wrapper .heading-content {
+	position: relative;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.mainheading-wrapper .header_text h1 {
+	z-index: 10;
+	margin: 0;
+	position: relative;
+}
+.mainheading-wrapper .header_text h4 {
+	z-index: 10;
+	margin: 10px 0 0 0;
+	position: relative;
+}
+
+.heading-align-left .heading-text-wrapper {
+	float: left;
+	max-width: 85%;
+	text-align: left;
+}
+.heading-align-center .heading-text-wrapper {
+	text-align: center;
+}
+.heading-align-right .heading-text-wrapper {
+	float: right;
+	max-width: 85%;
+	text-align: right;
+}
+.heading-back-button {
+	position: initial !important;
+}
+.heading-align-left .heading-back-button-wrapper {
+	float: right;
+}
+.heading-align-center .heading-back-button-wrapper {
+	display: block;
+}
+.heading-align-right .heading-back-button-wrapper {
+	float: left;
+}
+
+.heading-align-left .heading-back-button a {
+	position: absolute;
+	right: 0px;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+	min-width: 50px;
+	z-index: 10;
+}
+.heading-align-center .heading-back-button {
+	text-align: center;
+	padding-top: 20px;
+}
+.heading-align-center .heading-back-button a {
+	background: none;
+	border: none;
+	box-shadow: none;
+
+}
+.heading-align-right .heading-back-button a {
+	position: absolute;
+	left: 0px;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+	min-width: 50px;
+}
+
+
+/* rtl style  */
+
+.direction-rtl .heading-text-wrapper {
+	float: right;
+}
+.direction-rtl .heading-back-button-wrapper {
+	float: left;
+}
+.direction-rtl .heading-back-button a {
+	left: 0px;
+	right: auto;
+}
+
+div#bdt-header-animation {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+
+@media (max-width: 768px) {
+	
+}
+
+/* Only phones */
+@media (max-width: 480px) {	
+	
+}

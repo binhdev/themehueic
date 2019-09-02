@@ -1,0 +1,101 @@
+.file,
+.dropfiles-content.dropfiles-content-default .dropfilescategory {
+    margin: 10px 10px 10px 10px !important;
+}
+
+.dropfiles-content-default .file .downloadlink {
+    background-color: #76bc58 !important;
+    color: #ffffff !important;
+}
+
+.file,
+.dropfiles-content.dropfiles-content-default .dropfilescategory {
+    margin: 10px 10px 10px 10px !important;
+}
+
+.dropfiles-content-default .file .downloadlink {
+    background-color: #76bc58 !important;
+    color: #ffffff !important;
+}
+
+.file,
+.dropfiles-content.dropfiles-content-default .dropfilescategory {
+    margin: 10px 10px 10px 10px !important;
+}
+
+.dropfiles-content-default .file .downloadlink {
+    background-color: #76bc58 !important;
+    color: #ffffff !important;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: normal;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+}
+
+h2 {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+}
+
+h4 {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+}
+
+h5 {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+}
+
+h6 {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+}
+
+#sp-footer {
+    background-color: #101015;
+    color: #666666;
+}
+
+.sp-page-builder .page-content #section-id-1500534193368 {
+    margin: 0px 0px 0px 0px;
+    padding: 0 0px 0 0px;
+}
+
+.mainheading-wrapper {
+    background: url(img/newsletter_bg.jpg);
+}
+
+.mainheading-wrapper h1 {
+    font-size: 34px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.mainheading-wrapper h4 {
+    font-size: 32px;
+}
+
+.mainheading-wrapper .heading-content {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+@media (max-width: 768px) {
+    .mainheading-wrapper .heading-content {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+}

@@ -1,0 +1,43 @@
+#sp-header.header-transparent{
+	position: static;
+}
+.main-navigation ul ul{
+	background-color: white;
+}
+.main-navigation ul ul a {
+    width: 180px;
+    line-height: 10px;
+    margin: 0px 20px;
+    border-bottom: 1px solid #dfdfdf;
+    padding: 13px;
+    color: #333;
+    padding-left: 0px;
+}
+.main-navigation ul ul {
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    float: left;
+    position: absolute;
+    top: 100%;
+    /*left: -60px!important;*/
+    z-index: 99999;
+}
+.current-menu-item a{
+	background: #1c8af2;
+}
+ul#menu-sidebar {
+    margin: 0px;
+}
+#page-title{
+	background: url('img/newsletter_bg.jpg');
+}
+.page-title {
+	color:white;
+	text-transform: uppercase;
+}
+.uk-container.uk-container-center.heading-content.heading-align-center {
+    padding: 60px;
+
+}
+#page-title{
+	margin-bottom: 30px;
+}
