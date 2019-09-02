@@ -2231,7 +2231,7 @@ ul.social-icons > li a {
   padding-left: 0;
 }
 #sp-header.header-transparent {
-  background: #0b5051;
+  background: #F87300;
   box-shadow: none;
   position: absolute;
   width: 100%;
@@ -2256,7 +2256,7 @@ ul.social-icons > li a {
   border-radius: 3px;
 }
 #sp-header.header-transparent.menu-fixed {
-  background: #0b5051f2;
+  background: #F87300;
 }
 #sp-header.header-transparent #offcanvas-toggler > i {
   color: #fff;
@@ -3573,7 +3573,7 @@ article.item {
 }
 #sp-footer {
   color: #fff !important;
-  background-color: #0b5051 !important;
+  background-color: #0925AF !important;
   text-align: center;
   padding: 20px 0;
 }
